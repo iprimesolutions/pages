@@ -1,0 +1,18 @@
+body{
+  background-color: powderblue;
+}
+hr{
+
+  border-color: white;
+}
+h1{background-color: white; color:#FF5722;}
+h2{background-color: white; color:GREEN; border-width-style: center
+}
+h3{background-color: pink; color:#FF5722;}
+/*...............class Selector..............*/
+.pix{
+  border-radius: 60%;
+  background-color: pink;
+}
+img:hover{border-radius: 100%;
+}
